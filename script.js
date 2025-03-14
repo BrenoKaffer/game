@@ -108,18 +108,18 @@
     };
 
     var cards = [
-        { name: "php", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-3.png", id: 1 },
-        { name: "css3", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/css3-logo.png", id: 2 },
-        { name: "html5", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/html5-logo.png", id: 3 },
-        { name: "jquery", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/jquery-logo.png", id: 4 },
-        { name: "javascript", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/js-logo.png", id: 5 },
-        { name: "node", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/nodejs-logo.png", id: 6 },
-        { name: "photoshop", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/photoshop-logo.png", id: 7 },
-        { name: "python", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/python-logo.png", id: 8 },
-        { name: "rails", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/rails-logo.png", id: 9 },
-        { name: "sass", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/sass-logo.png", id: 10 },
-        { name: "sublime", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/sublime-logo.png", id: 11 },
-        { name: "wordpress", img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png", id: 12 },
+        { name: "🌟", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-3.png", id: 1 },
+        { name: "⚡", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-4.png", id: 2 },
+        { name: "❤️", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/Slice-3.png", id: 3 },
+        { name: "🌻", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-7.png", id: 4 },
+        { name: "💖", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-8.png", id: 5 },
+        { name: "🌈", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-9.png", id: 6 },
+        { name: "🚀", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-10.png", id: 7 },
+        { name: "🌸", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-11.png", id: 8 },
+        { name: "👣", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-12.png", id: 9 },
+        { name: "🌞", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-13.png", id: 10 },
+        { name: "💡", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-14.png", id: 11 },
+        { name: "🔮", img: "https://www.mapofmanifestation.com/wp-content/uploads/2025/03/image-15.png", id: 12 },
     ];
 
     Memory.init(cards);
