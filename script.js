@@ -99,7 +99,7 @@
                 frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
                 <div class="front"><img src="'+ v.img +'"\
                 alt="'+ v.name +'" /></div>\
-                <div class="back"><img src="https://www.mapofmanifestation.com/wp-content/uploads/2025/03/Camada_x0020_1-2.png"\
+                <div class="back"><img src="https://www.mapofmanifestation.com/wp-content/uploads/2025/03/Frame-1-1.png"\
                 alt="Codepen" /></div></div>\
                 </div>';
             });
